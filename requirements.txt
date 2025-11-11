@@ -1,0 +1,20 @@
+# Streamlit DB to MongoDB Converter - Dependencies
+
+# Core framework
+streamlit>=1.28.0
+
+# Database connectors
+pymongo>=4.5.0
+sqlalchemy>=2.0.0
+
+# SQL database drivers
+mysql-connector-python>=8.1.0
+psycopg2-binary>=2.9.7
+pyodbc>=5.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utilities
+python-dateutil>=2.8.2
